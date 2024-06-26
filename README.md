@@ -21,7 +21,7 @@ and then we use `app1-via-build` to replace app1, `cd app1-via-build & yarn & ya
 
 
 
-This is what makes me confused, The only difference between app1 and app1-via-build is Whether compile&build through plugin.
+This is what makes me confused, The only difference between app1 and app1-via-build is Whether compile&build through MF_Plugin.
 
 
 Need we should keep the behavior of these two cases consistent?
